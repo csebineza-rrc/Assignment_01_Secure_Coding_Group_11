@@ -2,7 +2,8 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "mysql": "^2.18.1",
-    "mysql2": "^3.15.2"
+    "mysql2": "^3.15.2",
+    "postmark": "^4.0.5"
   },
   "devDependencies": {
     "@types/mysql": "^2.15.27",
